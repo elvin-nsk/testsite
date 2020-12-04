@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elvin-nsk.github.io/testsite/sitemap.xml

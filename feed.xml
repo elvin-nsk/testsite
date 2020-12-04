@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>testsite on github pages</title>
+    <link href="https://elvin-nsk.github.io/testsite/feed.xml" rel="self" />
+    <link href="https://elvin-nsk.github.io/testsite" />
+    <updated>2020-12-05T01:44:22+07:00</updated>
+    <author>
+        <name>elvin</name>
+    </author>
+    <id>https://elvin-nsk.github.io/testsite</id>
+
+    <entry>
+        <title>Новый пост</title>
+        <author>
+            <name>elvin</name>
+        </author>
+        <link href="https://elvin-nsk.github.io/testsite/novyy-post.html"/>
+        <id>https://elvin-nsk.github.io/testsite/novyy-post.html</id>
+
+        <updated>2020-12-05T01:44:22+07:00</updated>
+            <summary>
+                <![CDATA[
+                     Со мною вот что происходит 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Со мною вот что происходит
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
